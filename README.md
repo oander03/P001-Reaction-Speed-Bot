@@ -9,6 +9,13 @@ https://github.com/user-attachments/assets/44bc812b-1f33-44f6-a88f-64357e4fe0b0
 ## Tech Stack 🛠️
 
 100% Python
+```bash
+#packages:
+import pyautogui
+import time
+import keyboard
+import win32api, win32con
+```
 
 # Contact 📬
 
