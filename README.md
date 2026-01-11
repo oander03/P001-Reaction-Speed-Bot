@@ -6,6 +6,10 @@ The website this was designed for is: https://humanbenchmark.com/tests/reactiont
 
 https://github.com/user-attachments/assets/44bc812b-1f33-44f6-a88f-64357e4fe0b0
 
+## Tech Stack 🛠️
+
+100% Python
+
 # Contact 📬
 
 Created by Owen Anderson on May ‎7, ‎2024  
